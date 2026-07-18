@@ -206,9 +206,7 @@ Topics Covered
 # 🏆 GitHub Trophy
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=apurva1803&theme=onedark&row=2&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=apurva1803&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
