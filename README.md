@@ -66,11 +66,11 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+<!--- ## 📊 GitHub Stats
 
 ![Apurva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurva1803&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apurva1803&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apurva1803&layout=compact&theme=tokyonight)-->
 
 ---
 
