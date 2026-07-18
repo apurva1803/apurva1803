@@ -178,15 +178,18 @@ Topics Covered
 
 ---
 
-# 📈 GitHub Stats
+# ⚡ Fun Fact
 
-<p align="center">
+	⁠Code → Learn → Build → Deploy → Repeat 🚀
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=apurva1803&show_icons=true&theme=tokyonight"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva1803&layout=compact&theme=tokyonight"/>
+## 🐍 Contribution Snake
 
-</p>
+<img src="https://raw.githubusercontent.com/Abhish0717/Abhish0717/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
 
 ---
 
@@ -249,9 +252,5 @@ Topics Covered
 <div align="center">
 
 ### 🚀 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=apurva1803&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-⭐ **If you like my work, consider giving a star to my repositories!**
 
 </div>
