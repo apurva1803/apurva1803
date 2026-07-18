@@ -8,19 +8,6 @@ Here are some ideas to get you started:
 # Hi 👋, I'm Apurva Deshmukh
 
 ### Java Full Stack Developer
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: 
-      - Hibernate
-      - Docker
-      - Jenkins
-      - Git & GitHub
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # Hi 👋, I'm Apurva Deshmukh
@@ -96,7 +83,7 @@ Here are some ideas to get you started:
 ## 🌐 Connect with me
 
 - GitHub: https://github.com/apurva1803
-- LinkedIn: *(Add your LinkedIn URL here)*
+<!--- LinkedIn: *(Add your LinkedIn URL here)*-->
 
 ---
 
