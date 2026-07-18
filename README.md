@@ -110,10 +110,10 @@ Here are some ideas to get you started:
 
 - 🎓 Java Full Stack Developer
 - 💻 Passionate about building scalable web applications.
-- 🌱 Currently learning **Spring Boot, Microservices, Docker, Jenkins, and AWS**
+- 🌱 Currently learning **Spring Boot, Docker, Jenkins**
 - 🚀 Love solving real-world problems through clean and efficient code.
 - 📚 Always exploring new technologies and best coding practices.
-- ⚡ Fun Fact: *Debugging teaches more than coding.*
+
 
 ---
 
@@ -141,7 +141,7 @@ Here are some ideas to get you started:
 ### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,eclipse,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,eclipse,postman" />
 </p>
 
 ---
@@ -232,7 +232,7 @@ Topics Covered
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:apurvaraut9@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
