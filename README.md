@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **apurva1803/apurva1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ### Java Full Stack Developer
 -->
-
+<!--
 # Hi 👋, I'm Apurva Deshmukh
 
 ### Java Full Stack Developer
@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apurva1803&layout=compact&theme=tokyonight)-->
 
+
+<!---
 ---
 
 ## 🔥 GitHub Streak
@@ -84,7 +86,172 @@ Here are some ideas to get you started:
 
 - GitHub: https://github.com/apurva1803
 <!--- LinkedIn: *(Add your LinkedIn URL here)*-->
-
+<!---
 ---
 
 ⭐ Thanks for visiting my profile!
+-->
+
+
+
+<h1 align="center">Hi 👋, I'm Apurva Deshmukh</h1>
+
+<h3 align="center">
+🚀 Passionate Java Full Stack Developer | Spring Boot Enthusiast | Lifelong Learner
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Development+%7C+REST+APIs;Docker+%7C+Jenkins+%7C+Git+%7C+MySQL;Always+Learning+New+Technologies+🚀" />
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 Java Full Stack Developer
+- 💻 Passionate about building scalable web applications.
+- 🌱 Currently learning **Spring Boot, Microservices, Docker, Jenkins, and AWS**
+- 🚀 Love solving real-world problems through clean and efficient code.
+- 📚 Always exploring new technologies and best coding practices.
+- ⚡ Fun Fact: *Debugging teaches more than coding.*
+
+---
+
+# 🚀 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,eclipse,idea,postman" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🎓 ORS Project (Online Result System)
+
+A complete Java Web Application developed using:
+
+- Java
+- JSP & Servlet
+- JDBC
+- MySQL
+- Maven
+- Docker
+- Jenkins
+- MVC Architecture
+
+---
+
+## 🌱 Spring Learning Repository
+
+Topics Covered
+
+- Spring Core
+- Dependency Injection
+- Bean Lifecycle
+- Autowiring
+- Spring MVC
+- Spring Boot
+- Annotations
+- Java Configuration
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=apurva1803&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurva1803&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=apurva1803&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=apurva1803&theme=onedark&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apurva1803&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/apurva1803">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=apurva1803&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+</div>
